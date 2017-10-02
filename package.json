@@ -1,0 +1,28 @@
+{
+  "name": "twitter_bot_1.0",
+  "version": "1.0.0",
+  "description": "twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/435vic/experimentalBot.git"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "twit",
+    "node.js"
+  ],
+  "author": "435vic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/435vic/experimentalBot/issues"
+  },
+  "homepage": "https://github.com/435vic/experimentalBot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
