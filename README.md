@@ -1,2 +1,2 @@
 # experimentalBot
-Node.js proyect for the Twitter API
+Node.js project for the Twitter API
